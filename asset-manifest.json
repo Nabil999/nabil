@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/nabil/static/js/main.0cd40eec.chunk.js",
-    "main.js.map": "/nabil/static/js/main.0cd40eec.chunk.js.map",
+    "main.js": "/nabil/static/js/main.7e7110d9.chunk.js",
+    "main.js.map": "/nabil/static/js/main.7e7110d9.chunk.js.map",
     "runtime-main.js": "/nabil/static/js/runtime-main.0ab5cbae.js",
     "runtime-main.js.map": "/nabil/static/js/runtime-main.0ab5cbae.js.map",
     "static/js/2.66ad45a8.chunk.js": "/nabil/static/js/2.66ad45a8.chunk.js",
     "static/js/2.66ad45a8.chunk.js.map": "/nabil/static/js/2.66ad45a8.chunk.js.map",
     "index.html": "/nabil/index.html",
-    "precache-manifest.aa0fddbb369ca409daa89288f98b6f8c.js": "/nabil/precache-manifest.aa0fddbb369ca409daa89288f98b6f8c.js",
+    "precache-manifest.5b528f5ec779a1d68883f17e8343c7a2.js": "/nabil/precache-manifest.5b528f5ec779a1d68883f17e8343c7a2.js",
     "service-worker.js": "/nabil/service-worker.js",
     "static/js/2.66ad45a8.chunk.js.LICENSE.txt": "/nabil/static/js/2.66ad45a8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0ab5cbae.js",
     "static/js/2.66ad45a8.chunk.js",
-    "static/js/main.0cd40eec.chunk.js"
+    "static/js/main.7e7110d9.chunk.js"
   ]
 }
