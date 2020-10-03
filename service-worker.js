@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/nabil/precache-manifest.43924a3f3f0e13b66abe85b55ba49921.js"
+  "/nabil/precache-manifest.aa0fddbb369ca409daa89288f98b6f8c.js"
 );
 
 self.addEventListener('message', (event) => {

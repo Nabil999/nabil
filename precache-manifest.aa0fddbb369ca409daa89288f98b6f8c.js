@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6e436ccf8113e65f3800e1865b773d99",
+    "revision": "ba9452d934b0f18cf8cdbdabf5a72c75",
     "url": "/nabil/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nabil/static/js/2.66ad45a8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e50d2c130de8afcd26b2",
-    "url": "/nabil/static/js/main.d9d60e67.chunk.js"
+    "revision": "4c08cc6523d66807c99d",
+    "url": "/nabil/static/js/main.0cd40eec.chunk.js"
   },
   {
     "revision": "8eca4dc974ce4e89d190",
