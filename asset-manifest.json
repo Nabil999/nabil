@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/nabil/static/js/main.d9d60e67.chunk.js",
+    "main.js.map": "/nabil/static/js/main.d9d60e67.chunk.js.map",
+    "runtime-main.js": "/nabil/static/js/runtime-main.0ab5cbae.js",
+    "runtime-main.js.map": "/nabil/static/js/runtime-main.0ab5cbae.js.map",
+    "static/js/2.66ad45a8.chunk.js": "/nabil/static/js/2.66ad45a8.chunk.js",
+    "static/js/2.66ad45a8.chunk.js.map": "/nabil/static/js/2.66ad45a8.chunk.js.map",
+    "index.html": "/nabil/index.html",
+    "precache-manifest.43924a3f3f0e13b66abe85b55ba49921.js": "/nabil/precache-manifest.43924a3f3f0e13b66abe85b55ba49921.js",
+    "service-worker.js": "/nabil/service-worker.js",
+    "static/js/2.66ad45a8.chunk.js.LICENSE.txt": "/nabil/static/js/2.66ad45a8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ab5cbae.js",
+    "static/js/2.66ad45a8.chunk.js",
+    "static/js/main.d9d60e67.chunk.js"
+  ]
+}
